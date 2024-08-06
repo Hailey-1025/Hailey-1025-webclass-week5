@@ -1,0 +1,20 @@
+body{
+	font-family: "Lato", sans-serif;
+	line-height: 1.5;
+}
+a{
+	text-decoration: none;
+	color: $success;
+	display: inline-block;
+}
+code{
+	font-family: ROBOTO MONO, sans-serif;
+	color: $success;
+}
+h1,h2,h3,h4,h5,h6,p{
+	margin-bottom: 0;
+}
+textarea{
+	width: 100%;
+	height: 180px;
+}

@@ -1,0 +1,10 @@
+.header{
+  width: 296px;
+  padding-top: 32px;
+}
+.nav-item{
+  &:hover{
+    background: #CED4DA;
+    width: 100%;
+  }
+}
